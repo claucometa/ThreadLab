@@ -1,0 +1,13 @@
+C:\Users\Computador\source\repos\ThreadStudies\HorseRace\bin\Debug\netcoreapp3.1\HorseRace.exe
+C:\Users\Computador\source\repos\ThreadStudies\HorseRace\bin\Debug\netcoreapp3.1\HorseRace.deps.json
+C:\Users\Computador\source\repos\ThreadStudies\HorseRace\bin\Debug\netcoreapp3.1\HorseRace.runtimeconfig.json
+C:\Users\Computador\source\repos\ThreadStudies\HorseRace\bin\Debug\netcoreapp3.1\HorseRace.runtimeconfig.dev.json
+C:\Users\Computador\source\repos\ThreadStudies\HorseRace\bin\Debug\netcoreapp3.1\HorseRace.dll
+C:\Users\Computador\source\repos\ThreadStudies\HorseRace\bin\Debug\netcoreapp3.1\HorseRace.pdb
+C:\Users\Computador\source\repos\ThreadStudies\HorseRace\obj\Debug\netcoreapp3.1\HorseRace.csprojAssemblyReference.cache
+C:\Users\Computador\source\repos\ThreadStudies\HorseRace\obj\Debug\netcoreapp3.1\HorseRace.AssemblyInfoInputs.cache
+C:\Users\Computador\source\repos\ThreadStudies\HorseRace\obj\Debug\netcoreapp3.1\HorseRace.AssemblyInfo.cs
+C:\Users\Computador\source\repos\ThreadStudies\HorseRace\obj\Debug\netcoreapp3.1\HorseRace.csproj.CoreCompileInputs.cache
+C:\Users\Computador\source\repos\ThreadStudies\HorseRace\obj\Debug\netcoreapp3.1\HorseRace.dll
+C:\Users\Computador\source\repos\ThreadStudies\HorseRace\obj\Debug\netcoreapp3.1\HorseRace.pdb
+C:\Users\Computador\source\repos\ThreadStudies\HorseRace\obj\Debug\netcoreapp3.1\HorseRace.genruntimeconfig.cache

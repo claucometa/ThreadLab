@@ -1,0 +1,15 @@
+C:\Users\Computador\source\repos\ConsoleApp1\ConsoleApp2\bin\Release\netcoreapp3.1\ConsoleApp2.exe
+C:\Users\Computador\source\repos\ConsoleApp1\ConsoleApp2\obj\Release\netcoreapp3.1\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\Computador\source\repos\ConsoleApp1\ConsoleApp2\obj\Release\netcoreapp3.1\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\Computador\source\repos\ConsoleApp1\ConsoleApp2\obj\Release\netcoreapp3.1\ConsoleApp2.AssemblyInfo.cs
+C:\Users\Computador\source\repos\ConsoleApp1\ConsoleApp2\bin\Release\netcoreapp3.1\ConsoleApp2.deps.json
+C:\Users\Computador\source\repos\ConsoleApp1\ConsoleApp2\bin\Release\netcoreapp3.1\ConsoleApp2.runtimeconfig.json
+C:\Users\Computador\source\repos\ConsoleApp1\ConsoleApp2\bin\Release\netcoreapp3.1\ConsoleApp2.runtimeconfig.dev.json
+C:\Users\Computador\source\repos\ConsoleApp1\ConsoleApp2\bin\Release\netcoreapp3.1\ConsoleApp2.dll
+C:\Users\Computador\source\repos\ConsoleApp1\ConsoleApp2\bin\Release\netcoreapp3.1\ConsoleApp2.pdb
+C:\Users\Computador\source\repos\ConsoleApp1\ConsoleApp2\bin\Release\netcoreapp3.1\Claucometa.MyFirstNuget.dll
+C:\Users\Computador\source\repos\ConsoleApp1\ConsoleApp2\obj\Release\netcoreapp3.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Computador\source\repos\ConsoleApp1\ConsoleApp2\obj\Release\netcoreapp3.1\ConsoleApp2.csproj.CopyComplete
+C:\Users\Computador\source\repos\ConsoleApp1\ConsoleApp2\obj\Release\netcoreapp3.1\ConsoleApp2.dll
+C:\Users\Computador\source\repos\ConsoleApp1\ConsoleApp2\obj\Release\netcoreapp3.1\ConsoleApp2.pdb
+C:\Users\Computador\source\repos\ConsoleApp1\ConsoleApp2\obj\Release\netcoreapp3.1\ConsoleApp2.genruntimeconfig.cache
